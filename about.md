@@ -8,7 +8,8 @@ Some information about you!
 
 ### More Information
 
-hola A place to include any other types of information that you'd like to include about yourself. 
+Some Projects
+- Masters of guitar: https://github.com/dfpedrazag/Master-Of-Guitars
 
 ### Contact me
 
