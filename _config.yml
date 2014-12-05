@@ -3,12 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Oscar David Suarez profile
+name: Your Name
 
 # Short bio or description (displayed in the header)
-description: hacker profile for Software Libre course
+description: Web Developer from Somewhere
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/odsuarezv/
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -17,15 +18,15 @@ avatar: https://github.com/odsuarezv/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: metwarrior2@gmail.com
-  facebook: https://www.facebook.com/metwarrior 
+  email: 
+  facebook: 
   flickr: 
-  github: odsuarezv
+  github: barryclark/jekyll-now
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: @oscarsmfc
+  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
