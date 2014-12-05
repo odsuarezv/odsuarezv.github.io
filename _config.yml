@@ -8,7 +8,7 @@ name: Oscar David Suarez profile
 # Short bio or description (displayed in the header)
 description: hacker profile for Software Libre curse
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://odsuarezv.github.io/
 
 #
 # Flags below are optional
@@ -17,15 +17,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
-  facebook: 
+  email: metwarrior2@gmail.com
+  facebook: https://www.facebook.com/metwarrior 
   flickr: 
-  github: barryclark/jekyll-now
+  github: odsuarezv
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: @oscarsmfc
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
