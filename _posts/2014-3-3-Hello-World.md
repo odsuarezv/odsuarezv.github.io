@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Personal profile
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+Hi guys my name is Oscar Suarez, I'm a systems engineer student from national university of Colombia
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
