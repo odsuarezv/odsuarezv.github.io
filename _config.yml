@@ -19,14 +19,14 @@ avatar: https://avatars3.githubusercontent.com/u/5674157?v=3&s=140
 footer-links:
   dribbble: 
   email: 
-  facebook: 
+  facebook:https://www.facebook.com/metwarrior 
   flickr: 
   github: barryclark/jekyll-now
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: oscarsmfc
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
